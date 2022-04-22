@@ -1,0 +1,42 @@
+
+#---bounding box
+
+figure.figsize: 10, 10
+axes.linewidth: 1.4
+lines.linewidth : 2
+lines.markersize : 20
+
+#---FONTS
+
+axes.labelsize : 23
+axes.labelcolor: black
+font.family: Nimbus Roman
+
+#---GRIDS
+
+grid.color: lightslategrey
+grid.linestyle: -
+grid.linewidth: 0.1
+grid.alpha:     0.2
+
+#--TICKS
+
+xtick.top:           True
+xtick.major.size:    10
+xtick.minor.size:    3
+
+xtick.labelsize:     23
+xtick.direction:     in
+xtick.minor.visible: True
+
+ytick.right:         True
+ytick.major.size:    10
+ytick.minor.size:    3
+
+ytick.labelsize:     23
+ytick.direction:     in
+ytick.minor.visible: True
+
+axes.labelpad:      10
+xtick.major.pad:     15
+ytick.major.pad:     15
